@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1640976751 source:d:\semester 3\dsa theory\semester project\phonebook\phone book\main.cpp
+	<iostream>
+	"Phone.h"
+	<string>
+
+1640976969 d:\semester 3\dsa theory\semester project\phonebook\phone book\phone.h
+	<string>
+
+1640976290 source:d:\semester 3\dsa theory\semester project\phonebook\phone book\phone.cpp
+	"Phone.h"
+	<iostream>
+	<string>
+	<fstream>
+
